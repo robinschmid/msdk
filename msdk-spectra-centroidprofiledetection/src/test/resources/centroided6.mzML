@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mzML xmlns="http://psi.hupo.org/ms/mzml" id="MZmine2 mzML export" version="1.1.0">
+<cvList xmlns="http://psi.hupo.org/ms/mzml"></cvList>
+<dataProcessingList xmlns="http://psi.hupo.org/ms/mzml" count="1">
+  <dataProcessing id="MSDK_mzml_export">
+    <processingMethod softwareRef="MSDK" order="0"></processingMethod>
+  </dataProcessing>
+</dataProcessingList>
+<run id="MZmine2 mzML export">
+<spectrumList count="1">
+<spectrum xmlns="http://psi.hupo.org/ms/mzml" defaultArrayLength="741" index="0" id="1">
+  <cvParam name="centroid mass spectrum" accession="MS:1000127"></cvParam>
+  <cvParam name="ms level" value="1" accession="MS:1000511"></cvParam>
+  <scanList count="1">
+    <scan></scan>
+  </scanList>
+  <binaryDataArrayList count="2">
+    <binaryDataArray arrayLength="741">
+      <cvParam name="zlib compression" accession="MS:1000574"></cvParam>
+      <cvParam name="64-bit float" accession="MS:1000523"></cvParam>
+      <binary>eJztzalTxtAVxuErkUhkJPKTyEhUm+50T3e6pzvdb3fqIpGRyEjklchIZCQyEtlpv0f2T3h/5pkzZ86cUv7bJ/r/UVk+aWYZzvasbCyfsmdlY/m0PSsby2fsWdlYPmvPysbyOXtWNpbP27OysXzBnpWN5c6elY3li/asbCxfsmdlY/myPSsby1fsWdlYvmrPysbyNXtWNpav27OysYxnO/YcWbmwcWf5hnv2HFm5sHFn+aZ79hxZubBxZ/mWe/YcWbmwcWf5tnv2HFm5sHFn+Y579hxZubBxZ/mue/YcWbmwcWf5nnv2HFm5sHFnuXfPniMrFzbuLN93z54jKxc27iw/cM+eIysXNu4sP3TPniMrFzbuLD9yz54jKxc27iw/ds+eIysXNu4sP3HPniMrFzbuLD91z54jKxc27izT2Ut2PLHnwJETK2cuXNm4cefB8jP/2fHEngNHTqycuXBl48adB8vP/WfHE3sOHDmxcubClY0bdx4sv/CfHU/sOXDkxMqZC1c2btx5sPzSf3Y8sefAkRMrZy5c2bhx58HyK//Z8cSeA0dOrJy5cGXjxp0Hy6/9Z8cTew4cObFy5sKVjRt3Hiy/8Z8dT+w5cOTEypkLVzZu3HmwPPjPjif2HDhyYuXMhSsbN+48WH7rPzue2HPgyImVMxeubNy482D5nf/seGLPgSMnVs5cuLJx486D5ff+s+OJPQeOnFg5c+HKxo07D5Y/+M+OJ/YcOHJi5cyFKxs37jxY/ug/O57Yc+DIiZUzF65s3LjzYPmT/+x4Ys+BIydWzly4snHjzoPlz/6z44k9B46cWDlz4crGjTsPlnr2gpe8YsdrnnjDnrcceMeR95z4wMpHznziwmeufGHjKze+cec7D36w/OXsBS95xY7XPPGGPW858I4j7znxgZWPnPnEhc9c+cLGV2584853Hvxg+evZC17yih2veeINe95y4B1H3nPiAysfOfOJC5+58oWNr9z4xp3vPPjB8rezF7zkFTte88Qb9rzlwDuOvOfEB1Y+cuYTFz5z5QsbX7nxjTvfefCD5e9nL3jJK3a85ok37HnLgXccec+JD6x85MwnLnzmyhc2vnLjG3e+8+AHyz/OXvCSV+x4zRNv2POWA+848p4TH1j5yJlPXPjMlS9sfOXGN+5858EPln+eveAlr9jxmifesOctB95x5D0nPrDykTOfuPCZK1/Y+MqNb9z5zoMfLP86e8FLXrHjNU+8Yc9bDrzjyHtOfGDlI2c+ceEzV76w8ZUb37jznQc/WB7PXvCSV+x4zRNv2POWA+848p4TH1j5yJlPXPjMlS9sfOXGN+5858EPln8zpZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSimllFJKKaWUUkr/r/8AVkBlUQ==</binary>
+    </binaryDataArray>
+    <binaryDataArray arrayLength="741">
+      <cvParam name="zlib compression" accession="MS:1000574"></cvParam>
+      <cvParam name="32-bit float" accession="MS:1000521"></cvParam>
+      <binary>eJztlsuKY1UUhncPdCYo+gAFvkA/ge6qzklVUpVKUrlUqlJJpW7d0q3tDUEdyG5baAQHJYggqMQLKDoRhAZHnoGTBgfiRH0A38KB/1rrD+UjOPg/OJx9dvZl7X9ddtLysSrVT1Vp8UsjvfJMla4/XqVyrUo/PFGl5V+NVC4bqZ4205PPVmltA89vjbR8upnSFtq/N9PyskrfPqrS5T20v9xMfz6sUvou5uWv8XyA+Q/w/r6RFp9Fe/lHtPOPaH+Csdcx5y30/YzfP2yk9DHeb6P/JfT9jTHvoe8ens8x50E89Rd40L/8CONewBt9CePTizEv3UXfMvrLV/h+FfPex4O9823M3UPfAu9uzF/82ki9ObR4A9/vNtIa7C2P8Ps7WAPt/Cne9/G2OUPMHeF9gOd1jJvjG2vkW3j6sXd+iN+uQZN/sNZP6DtCH2yrL0xPtO17gvadsLeexHppH88YD8YU9KVDvN/E2/Y6RXuA9jbasCNj7zyMx+bUPa6DfTLWqWFXgZ0Z73octpfbsX86w/cJ2lg/vxzj1+7Hfgnj80WsW2xtaJQz3m18N/G2fXbwzPCNdoFdCefON9G29bBXMV1hZ14PjU2v1Ilxfv5pnDU3MA799TmeXe4zDHsTfFTsmVJj228//OY6zEJDa5se7pNurJ27tKHDsfvUx+w4odYznmEe/imLOGsynY9iL7cT8/JWnMf0TOf0s9lxEn0FeuQOz2rzz0O7uk+tD7ie6fwN+hC75W7EjOlt2pgtpquNMzuz+X5MX1gs3Axt8ox2YN36LHxu9nsMLkIzi1GLcfNxvhP9+TzObWerj+Lcvo/5eCfa5r9yHNrV+/TDrWhnxkKaMJ6OYp+8R99bn2l1ehV7ZSvapkM2/w5CR9f0gDaOIibMbjufxZSd3eOjyzywM9PfroXZZn4dMIdHnDuN/nIQ9rlGXcbAeqxl++Qz5lkvfGmamG/cD9i7bkc8+H4jrtdlDtj+LYxZZ8ycsZ4MGeNj7tOJGHZ9Vv09rtMLjT02qtDGdZ0yhvrMh0Hoavq771vMueM4p2sxCL+Zb8y/nvtnzN8ZNTatt0MT33fIOtKMWlN3GAsWf+ar55ibY2rLfKtbEStmR6ZNngM7zMUx/XlImxaM/SF17kacezzuhk5Wnzx3ba+LiGWzuZjGVcwzf9kehTWhZo54LRqGdhZ7CbqkjbDX7CuMbc9x89ON8EkybdvM4X7kncf3lO895mI37CiMYT9PFT5yPbtxTrdnO3S09Sw+PH7bXOeYMcJa4TV4EmNLFfmYt+Px3B1G/Nh32eVc03YjYs5jpHVlg59lzti1/ZuMv07EkNWxwtw1f2XeN3YXWux7/o+ZU+24B7zGndBPI94DO4zhAXVv0V7mst9fI+b4NPLIYt/j9ID1Yxh3RN7kWNYis8/7j3l37LFmdnjGObXt0/4xNRtcxa3HaCc0df1Yn+zeKm3m4mas67HXZN1h/KdN1u1W3LdWMzNrX2bN9f8NW7wT9nnn7YbGdseUBtcb0neMLatBmfdaPbryYeK9UXh3mb6J94r51eNzQX3ncQ943Mx5ZxxG2+4FryNN1t4u82ASvrB1Pa8mrM+Tq5psPq9Z4zLjNb3G+raq8UfhQ79fT2Mt3/8ofON18px7nV6dsT4Jm70OTGl7n/m+YI72Inbsd9PV/wPMWE92GaOrnD8LGzwODnk3nEatK6y9NePF6oHXtT3WTf5387jaCT/73dBjrK7O2I8YtFyyx+4xqwNpFaMrHVd30H//f/Ui3mx9G+t1fId3wjZjbJ9+usHa2WYtfR5vIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEL8n/gXS8jgKg==</binary>
+    </binaryDataArray>
+  </binaryDataArrayList>
+</spectrum>
+</spectrumList>
+</run>
+</mzML>

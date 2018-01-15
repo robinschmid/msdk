@@ -1,11 +1,12 @@
 # About MSDK
 [![Build Status](https://travis-ci.org/msdk/msdk.svg?branch=master)](https://travis-ci.org/msdk/msdk)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.msdk/msdk-all/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.msdk/msdk-all)
 
 Mass Spectrometry Development Kit (MSDK) is a Java library of algorithms for processing mass spectrometry data. The goals of the library are to provide a flexible data model with Java interfaces for mass-spectrometry related objects (including raw spectra, processed data sets, identification results etc.) and to integrate the existing algorithms that are currently scattered around various Java-based graphical tools.
 
 ## Java version
 
-MSDK requires Java runtime (JRE) version 1.7 or newer.
+MSDK requires Java runtime (JRE) version 1.8 or newer.
 
 
 ## Usage
@@ -22,7 +23,7 @@ MSDK jars are automatically deployed to Maven Central. In order to use MSDK, sim
  <dependency>
     <groupId>io.github.msdk</groupId>
     <artifactId>msdk-all</artifactId>
-    <version>0.0.5</version>
+    <version>0.0.11</version>
  </dependency>
 ```
 
@@ -35,10 +36,9 @@ Please read our brief [tutorial](https://msdk.github.io/pull-request-tutorial.ht
 
 ### Code style
 
-Since this is a collaborative project, please adhere to the following code formatting conventions:
-* All Java sources should be formatted according to the official [Java Code Conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html) with only one adjustment: use spaces for indentation instead of tabs
-* You can use the `msdk-eclipse-code-formater.xml` file to automatically format your code in the Eclipse IDE
-* Please write JavaDoc comments as full sentences, starting with a capital letter and ending with a period. Brevity is preferred (e.g., "Calculates standard deviation" is preferred over "This method calculates and returns a standard deviation of given set of numbers").
+* We use the Google Java Style Guide (https://github.com/google/styleguide)
+* You can use the `eclipse-java-google-style.xml` file to automatically format your code in the Eclipse IDE
+* Please write JavaDoc comments as full sentences, starting with a capital letter and ending with a period. Brevity is preferred (e.g., "Calculates standard deviation" instead of "This method calculates and returns a standard deviation of given set of numbers").
 
 ### Logging
 
